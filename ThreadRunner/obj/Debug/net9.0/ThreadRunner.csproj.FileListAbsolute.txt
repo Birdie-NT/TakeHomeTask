@@ -1,0 +1,15 @@
+C:\Users\nasri\Documents\Repo\Tiimely\ThreadRunner\ThreadRunner\bin\Debug\net9.0\ThreadRunner.exe
+C:\Users\nasri\Documents\Repo\Tiimely\ThreadRunner\ThreadRunner\bin\Debug\net9.0\threads.csv
+C:\Users\nasri\Documents\Repo\Tiimely\ThreadRunner\ThreadRunner\bin\Debug\net9.0\ThreadRunner.deps.json
+C:\Users\nasri\Documents\Repo\Tiimely\ThreadRunner\ThreadRunner\bin\Debug\net9.0\ThreadRunner.runtimeconfig.json
+C:\Users\nasri\Documents\Repo\Tiimely\ThreadRunner\ThreadRunner\bin\Debug\net9.0\ThreadRunner.dll
+C:\Users\nasri\Documents\Repo\Tiimely\ThreadRunner\ThreadRunner\bin\Debug\net9.0\ThreadRunner.pdb
+C:\Users\nasri\Documents\Repo\Tiimely\ThreadRunner\ThreadRunner\obj\Debug\net9.0\ThreadRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasri\Documents\Repo\Tiimely\ThreadRunner\ThreadRunner\obj\Debug\net9.0\ThreadRunner.AssemblyInfoInputs.cache
+C:\Users\nasri\Documents\Repo\Tiimely\ThreadRunner\ThreadRunner\obj\Debug\net9.0\ThreadRunner.AssemblyInfo.cs
+C:\Users\nasri\Documents\Repo\Tiimely\ThreadRunner\ThreadRunner\obj\Debug\net9.0\ThreadRunner.csproj.CoreCompileInputs.cache
+C:\Users\nasri\Documents\Repo\Tiimely\ThreadRunner\ThreadRunner\obj\Debug\net9.0\ThreadRunner.dll
+C:\Users\nasri\Documents\Repo\Tiimely\ThreadRunner\ThreadRunner\obj\Debug\net9.0\refint\ThreadRunner.dll
+C:\Users\nasri\Documents\Repo\Tiimely\ThreadRunner\ThreadRunner\obj\Debug\net9.0\ThreadRunner.pdb
+C:\Users\nasri\Documents\Repo\Tiimely\ThreadRunner\ThreadRunner\obj\Debug\net9.0\ThreadRunner.genruntimeconfig.cache
+C:\Users\nasri\Documents\Repo\Tiimely\ThreadRunner\ThreadRunner\obj\Debug\net9.0\ref\ThreadRunner.dll
